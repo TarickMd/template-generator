@@ -1,0 +1,118 @@
+{
+  "blocks": [
+    {
+      "id": "block-review",
+      "imgSrc": "img/blocks/block-review-1.jpg",
+      "subscription": "block-review"
+    },
+    {
+      "id": "block-icon",
+      "imgSrc": "img/blocks/block-icon.jpg",
+      "subscription": "block-icon"
+    },
+    {
+      "id": "block-column-3",
+      "imgSrc": "img/blocks/block-column-3.jpg",
+      "subscription": "3 column"
+    },
+    {
+      "id": "block-video",
+      "imgSrc": "img/blocks/block-video.jpg",
+      "subscription": "Video block"
+    },
+    {
+      "id": "simple-block",
+      "imgSrc": "img/blocks/simple-block.jpg",
+      "subscription": "simple-block"
+    },
+    {
+      "id": "timer-block",
+      "imgSrc": "img/blocks/timer-block.jpg",
+      "subscription": "Timer-block"
+    },
+    {
+      "id": "block-map",
+      "imgSrc": "img/blocks/block-map.jpg",
+      "subscription": "Map block"
+    },
+    {
+      "id": "block-icons-1",
+      "imgSrc": "img/blocks/block-icons-1.jpg",
+      "subscription": "block with icons"
+    },
+    {
+      "id": "block-portfolio-1",
+      "imgSrc": "img/blocks/block-portfolio-1.jpg",
+      "subscription": "block portfolio"
+    },
+    {
+      "id": "block-top-1",
+      "imgSrc": "img/blocks/block-top-1.jpg",
+      "subscription": "first block"
+    },
+    {
+      "id": "large-carousel-1",
+      "imgSrc": "img/blocks/large-carousel-1.jpg",
+      "subscription": "slider"
+    },
+    {
+      "id": "large-image-1",
+      "imgSrc": "img/blocks/large-image-1.jpg",
+      "subscription": "Image and text"
+    },
+    {
+      "id": "product-sale-1",
+      "imgSrc": "img/blocks/product-sale-1.jpg",
+      "subscription": "Product price"
+    },
+    {
+      "id": "block-reviews-2",
+      "imgSrc": "img/blocks/block-reviews-2.jpg",
+      "subscription": "Reviews"
+    },
+    {
+      "id": "block-photo-par",
+      "imgSrc": "img/blocks/block-photo-par.jpg",
+      "subscription": "block photo with paragraph"
+    },
+    {
+      "id": "block-image-3",
+      "imgSrc": "img/blocks/block-three-image.jpg",
+      "subscription": "block with three image"
+    },
+    {
+      "id": "text-slider",
+      "imgSrc": "img/blocks/text-slider.jpg",
+      "subscription": "Text slider"
+    }
+  ],
+  "headers": [
+    {
+      "id": "header-simple",
+      "imgSrc": "img/blocks/header-simple.jpg",
+      "subscription": "Simple-Header"
+    },
+    {
+      "id": "header-center",
+      "imgSrc": "img/headers/header-center.jpg",
+      "subscription": "header-center"
+    }
+  ],
+  "footers": [
+    {
+      "id": "center-footer",
+      "imgSrc": "img/blocks/center-footer.jpg",
+      "subscription": "center-footer"
+    },
+    {
+      "id": "footer-thin",
+      "imgSrc": "img/footers/footer-thin.jpg",
+      "subscription": "footer-thin"
+    },
+    {
+      "id": "large-footer-1",
+      "imgSrc": "img/blocks/large-footer-1.jpg",
+      "subscription": "large footer"
+    }
+  ]
+}
